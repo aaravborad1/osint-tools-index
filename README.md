@@ -1,7 +1,7 @@
 # OSINT Index
 
 A categorized, automatically link-checked mirror of the [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all)
-tool collection — ~900+ OSINT tools, organized by category, rebuilt weekly with fresh
+tool collection — more then 900+ OSINT tools, organized by category, rebuilt weekly with fresh
 "is this link still alive" status.
 
 ## How it works
